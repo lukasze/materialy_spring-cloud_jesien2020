@@ -71,7 +71,7 @@
   
   [kanał na youtube - javabrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
   
-# 3 Docker  
+# III Docker  
 
 ## Prezentacja i ćwiczenia na katakoda
 
@@ -84,6 +84,6 @@
 
 
   
-# III odpowiedzi na pytania
+# IV odpowiedzi na pytania
 
   Nie ma jeszcze pytań :)
