@@ -12,9 +12,10 @@
 
   Plik w repozytorium: mircoservices-jhipster.md
   
-## Prezentacja
+## Prezentacje
 
   [mikroserwisy](https://prezi.com/view/G69qV693t8j1NLKk7KIQ/)
+  [mikroserwisy & spring](https://drive.google.com/file/d/1RlLMHsK9pIqc4XDjTPoYnWMtwpu4aWWn/view?usp=sharing)
 
 ## fortune-cookie
 
@@ -36,7 +37,7 @@
  Przerobienienie 3 ćwiczeń z oficjalnych samouczkóww, potem dodatkowe ćwiczenia (linki ro repozytoriów)
  Staramy się stworzyć i aktualizwoać naszą, własną mapę kompetencji, poniżej przykładowa:
  
- [Spring - mapa kompetencji](https://prezi.com/view/wqMrbAZlfp5finFqBtcl)
+ [Spring - mapa kompetencji](https://prezi.com/view/L4x0fhw3WEvopCJckrwv)
  
 ## 3 Ćwiczenia z oficjalnej strony
  
