@@ -84,7 +84,7 @@ https://github.com/deviantony/docker-elk
 
 ## Prezentacja i ćwiczenia na katakoda
 
-  [prezentacja](https://prezi.com/view/YOprFglDWgj7V9Lp5gFf)
+  [prezentacja](https://prezi.com/view/v7J9YGmRCkk3FL64fby4)
 
 ## Ćwiczenia na lokalną maszynę
 
